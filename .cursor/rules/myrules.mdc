@@ -1,0 +1,8 @@
+---
+description: Proje Bilgileri
+globs: 
+---
+
+- Her tablonun create scripleri projede mevcut.
+- Tüm  tablo ve StoredProcedure tanımlamaları kök dizinde. Dosya adları şu formatta.  Stored Procedure'ler : [SchemaName].[ProcedureName].StoredProcedure Table : [SchemaName].[TableName].Table
+- Tüm tabloların index yapısı TabloIndexler.md dosyasında bulunuyor.
